@@ -1,6 +1,6 @@
 #!/bin/sh
 TAG="5.3.1"
-DOCKER_REGISTRY="docker.io"
+DOCKER_REGISTRY="docker.io/apodhrad"
 DOCKER_IMAGE_NAME="${DOCKER_REGISTRY}/openstack-client"
 
 ENV_FILE="$1"
